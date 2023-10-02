@@ -1,2 +1,2 @@
-# os-ipc-c-programming
-A Collection of simple c programs to play with Interprocess Communication.
+# Linux Interprocess Communication projects In C
+A Collection of simple c programs to play with Interprocess Communication. In these projects I experiment with ***Semaphores***, ***Shared Memory***, ***Concurrency***, etc.
